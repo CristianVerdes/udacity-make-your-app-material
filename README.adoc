@@ -7,7 +7,7 @@
 - Tested on Android 8.0.0
 
 # What Will I Learn?
-- Through this project, you will:
+Through this project, you will:
 - Understand the fundamentals of Android design.
 - Apply Material Design guidelines to an mobile application.
 - Separate an interface into surfaces.
