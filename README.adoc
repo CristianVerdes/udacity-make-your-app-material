@@ -1,5 +1,5 @@
-# Make your app Material 
-- Forth project from the Android Developer Nanodegree program
+# Make your app Material
+Forth project from the Android Developer Nanodegree program
 
 # NOTES
 - The point of the project is to add some Material guidelines to a starter code.
